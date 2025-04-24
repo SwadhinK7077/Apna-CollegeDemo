@@ -1,4 +1,4 @@
 # Apna-CollegeDemo
 Thisis my git Repository .
 <br>
-Author : Swadhin Kumar
+Author : Swadhin Kumar Parida
